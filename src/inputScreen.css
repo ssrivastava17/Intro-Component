@@ -1,0 +1,18 @@
+.inputScreens input{
+    /* border:none;  */
+    /* background-color:hsl(189, 41%, 97%);  */
+    display:block; 
+    width: 80%; 
+    /* box-sizing: border-box;  */
+    text-align: left;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 700;
+    color: hsl(246, 25%, 77%);
+    border-color: hsl(246, 25%, 77%);
+    padding: 15px 10px 15px 30px;
+    /* -webkit-appearance: none; */
+    margin: 15px auto;
+}
